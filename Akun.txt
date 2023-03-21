@@ -1,0 +1,7 @@
+Akun Admin :
+username : admin
+password : 1234567
+
+Akun Karyawan
+username : petugas
+password : 1234567
